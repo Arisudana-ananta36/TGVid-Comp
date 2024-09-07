@@ -45,6 +45,7 @@ Add in [@BotFather](https://t.me/BotFather)
     ban_user - Ban Perticualr User To Use The Bot [ADMIN]
     unban_user - Unban The User [ADMIN]
     banned_users - List Of Banned Users [ADMIN]
+    restart - restart the bot
 
  
 ## Variables 
