@@ -7,6 +7,7 @@
 # 📦 𝖥𝖾𝖺𝗍𝗎𝗋𝖾𝗌
 
  - Encodes very fast.
+ - For advance use read Plugin/admin_panel.py
  - Renames very fast .
  - Support Encoding of 4Gb files.
  - Has metadata adding feature 
