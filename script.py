@@ -62,7 +62,7 @@ Available commands:-
 ➜ To Set Thumbnail just send photo
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/Snowball_Official>ѕησωвαℓℓ ❄️</a>
+<b>⦿ Developer:</b> <a href=https://t.me/Learnmore_official>ѕησωвαℓℓ ❄️</a>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
